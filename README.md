@@ -1,4 +1,4 @@
  **Data Analytics on Hotel Industry**
  
  
-This project is done as part of my learning phase. My sincere thanks to Dalav Patel and his team for providing the real world data set to work on. In this project, the tool I used is Power BI and some basic calculation were performed using DAX feature inside Power BI.
+This project was done as part of my learning phase. I'd like to thank Dalav Patel and his team for providing us with the real-world data set. As part of this project, I used Power BI and the DAX function within Power BI to perform some basic calculations
