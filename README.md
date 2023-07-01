@@ -4,7 +4,7 @@ This project was done as part of my learning phase. My sincere thanks to Dalav P
  
 **Business Problems Hotel Management Team Faced**
 
-Atliq Grand Hotel Industry noticed a decline in market revenue over few months. To understasnd the cause of this loss, they needed a way to analyze this. So they approached a Data analyst to find solutions to the business problems.
+Atliq Grand Hotel Industry noticed a decline in market revenue over few months. To understand the cause of this loss, they needed a way to analyze this. So they approached a Data analyst to find solutions to the business problems.
 
 **Data Analyzing and Visualization steps**
 
