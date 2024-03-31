@@ -1,3 +1,7 @@
+![8dy2bb39](https://github.com/Govkrish3399/Power-BI-project/assets/19199257/394f23ba-5ddd-4016-a659-538a9baadbf1)
+
+
+
 **Data Analytics on Hotel Industry**
  
 This project was done as part of my learning phase. My sincere thanks to Dalav Patel and his team for providing me with the real-world data set. As part of this project, I used Power BI and the DAX function within Power BI to perform some basic calculations.
