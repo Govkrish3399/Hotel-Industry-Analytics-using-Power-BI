@@ -12,8 +12,7 @@ Atliq Grand Hotel Industry noticed a decline in market revenue over few months. 
 
 **Data Analyzing and Visualization steps**
 
-As a data analyst I analyzed the industry data set, performed ETL on the data set and discovered meaningful insights and presented the business insights by creating a dashboard using Power BI.
-Created a dashboard in Power BI using three months data.
+As a data analyst I conducted thorough cleaning, transformation on the dataset to enhance the data quality. Then created compelling and visually appealing dasboards to represent the KPI metrics .
 
 **Outcome of the Project**
 
