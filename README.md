@@ -4,7 +4,7 @@
 
 **Data Analytics on Hotel Industry**
  
-This project was done as part of my learning phase. My sincere thanks to Dalav Patel and his team for providing me with the real-world data set. As part of this project, I used Power BI and the DAX function within Power BI to perform some basic calculations.
+This project was done as part of my learning phase. My sincere thanks to Dalav Patel and his team for providing me with the real-world data set. As part of this project, I used Power BI and its powerful DAX capabilities to calculate KPI's such as DBRN, ADR, DSRN, REvPar, Occupancy(%). Kindly check the docs where I explained each calculation for these KPI.
  
 **Business Problems Hotel Management Team Faced**
 
